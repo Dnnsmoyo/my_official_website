@@ -19,6 +19,6 @@ from myapp import views
 
 urlpatterns = [
     url(r'^$',views.IndexView.as_view()),
-    url(r'^newsletter/', include('newsletter.urls')),
+    #url(r'^newsletter/', include('newsletter.urls')),
     url(r'^admin/', admin.site.urls),
 ]

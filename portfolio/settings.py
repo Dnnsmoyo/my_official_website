@@ -39,12 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'myapp',
-    'sorl.thumbnail',
-    'newsletter',
+   
 ]
 SITE_ID=1
 
-NEWSLETTER_EMAIL_DELAY = 0.1
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
