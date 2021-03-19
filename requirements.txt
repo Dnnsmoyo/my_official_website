@@ -45,7 +45,7 @@ django-newsletter==0.7
 django-redis-sessions==0.6.1
 django-registration==3.0
 django-websocket-redis==0.5.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 docutils==0.14
 email-reply-parser==0.5.9
